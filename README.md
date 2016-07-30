@@ -17,5 +17,7 @@ contains a lot more information you should check out.
 
 ![Testing React js components with enzyme, mocha, chai, sinon & jsdom](https://raw.githubusercontent.com/pjlangley/testing-react-js-components/master/misc/testing-react-js-components.png "Testing React js components with enzyme, mocha, chai, sinon & jsdom")
 
+---
+
 ### License
 MIT
